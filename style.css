@@ -3,10 +3,10 @@
 
 :root{
     --textcolor: #361515; /* Light Gray */
-    --primary-color: #7e5200; /* Dark Orange */
-    --secondary-color: #580000; /* Dark Blue */
-    --link-color: #ff002b; /* Lighter Blue for links */
-    --space-background: #002855; /* Dark Blue */
+    --primary-color: #00ffb9; /* Teal */
+    --secondary-color: #bff0e3; /* Ligt Grey */
+    --link-color: #0042ff; /* Dark Blue for links */
+    --space-background: #00ffff; /* Light Blue */
 }
 
 .grid-2{
