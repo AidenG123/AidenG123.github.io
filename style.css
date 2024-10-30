@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 
 :root{
-    --textcolor: #361515; /* Light Gray */
+    --textcolor: #000000; /* Light Gray */
     --primary-color: #00ffb9; /* Teal */
     --secondary-color: #bff0e3; /* Ligt Grey */
     --link-color: #0042ff; /* Dark Blue for links */
