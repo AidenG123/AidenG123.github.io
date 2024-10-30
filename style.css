@@ -5,8 +5,8 @@
     --textcolor: #000000; /* Light Gray */
     --primary-color: #00000; /* Teal */
     --secondary-color: #000000; /* Ligt Grey */
-    --link-color: #0042ff; /* Dark Blue for links */
-    --space-background: #696969; /* Light Gray */
+    --link-color: #000000; /* Dark Blue for links */
+    --space-background: #000000; /* Light Gray */
 }
 
 .grid-2{
